@@ -1,7 +1,7 @@
 {
   "name": "opbot",
   "description": "Hubot interface to Opvizor's appliance",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "author": "Opvizor, Inc. <info@opvizor.com>",
   "private": true,
   "license": "Proprietary",
