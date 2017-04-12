@@ -1,7 +1,7 @@
 {
   "name": "opbot",
   "description": "Hubot interface to Opvizor's appliance",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Opvizor, Inc. <info@opvizor.com>",
   "private": true,
   "license": "Proprietary",
@@ -11,14 +11,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/opvizor/opbot"
+    "url": "git+https://github.com/opvizor/opbot.git#dev"
   },
   "bugs": {
     "url": "mailto:info@opvizor.com"
   },
-  "dependencies": {},
+  "dependencies": {
+    "npm": ""
+  },
   "peerDependencies": {
     "hubot": "2.x"
   },
-  "main": "index.coffee"
+  "devDependencies": {},
+  "main": "index.js"
 }
